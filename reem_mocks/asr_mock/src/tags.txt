@@ -1,0 +1,11 @@
+object=coke
+location=lift
+yes=yes
+name=cris
+objectA=coke
+objectB=fanta
+objectC=cookies
+location1=table one
+location2=table two
+action=goto
+word=follow me
